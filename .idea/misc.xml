@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/Busqueda.xml" value="0.13333333333333333" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/activity_main.xml" value="0.11639492753623189" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/activity_main2.xml" value="0.11639492753623189" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/menuprincipal.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/busqueda.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/fragment_first.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/fragment_second.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/LIBRAPP2/app/src/main/res/layout/menuprincipal.xml" value="0.33" />
       </map>
     </option>
   </component>

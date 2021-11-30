@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LIBRAPP">
         <activity
+            android:name=".Busqueda"
+            android:exported="false"
+            android:label="@string/title_activity_busqueda"
+            android:theme="@style/Theme.LIBRAPP.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

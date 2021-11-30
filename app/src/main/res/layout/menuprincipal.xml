@@ -76,7 +76,7 @@
         app:layout_constraintVertical_bias="0.08" />
 
     <Button
-        android:id="@+id/CerrarSesionButton"
+        android:id="@+id/Atras"
         android:layout_width="101dp"
         android:layout_height="47dp"
         android:layout_marginStart="20dp"
@@ -137,7 +137,7 @@
         app:layout_constraintVertical_bias="0.045" />
 
     <TextView
-        android:id="@+id/SubtitulotextView"
+        android:id="@+id/NombreLibro"
         android:layout_width="109dp"
         android:layout_height="16dp"
         android:layout_marginStart="145dp"
@@ -168,7 +168,7 @@
         app:layout_constraintBottom_toTopOf="@+id/MenuButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/SubtitulotextView">
+        app:layout_constraintTop_toBottomOf="@+id/NombreLibro">
 
         <TableRow
             android:layout_width="match_parent"
